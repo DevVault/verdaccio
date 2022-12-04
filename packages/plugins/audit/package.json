@@ -31,8 +31,8 @@
     "npm": ">=6"
   },
   "dependencies": {
-    "express": "4.17.2",
-    "body-parser": "1.19.1",
+    "express": "4.17.3",
+    "body-parser": "1.19.2",
     "https-proxy-agent": "5.0.0",
     "node-fetch": "cjs"
   },
