@@ -91,7 +91,7 @@
     "jest-environment-node": "27.4.6",
     "jest-junit": "12.3.0",
     "kleur": "3.0.3",
-    "lint-staged": "11.2.6",
+    "lint-staged": "12.1.0",
     "nock": "12.0.3",
     "node-fetch": "cjs",
     "nodemon": "2.0.15",
