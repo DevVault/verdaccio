@@ -46,7 +46,7 @@
     "@verdaccio/signature": "workspace:6.0.0-6-next.2",
     "@verdaccio/utils": "workspace:6.0.0-6-next.40",
     "debug": "4.3.4",
-    "express": "4.18.2",
+    "express": "4.19.2",
     "lodash": "4.17.21",
     "verdaccio-htpasswd": "workspace:11.0.0-6-next.42"
   },
