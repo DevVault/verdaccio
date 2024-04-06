@@ -48,7 +48,7 @@
     "supertest": "6.3.3",
     "nock": "13.2.9",
     "jsdom": "20.0.3",
-    "undici": "4.16.0",
+    "undici": "5.28.4",
     "verdaccio-auth-memory": "workspace:11.0.0-6-next.37",
     "verdaccio-memory": "workspace:11.0.0-6-next.39"
   },
